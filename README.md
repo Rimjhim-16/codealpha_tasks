@@ -4,7 +4,7 @@ This repository contains my submitted tasks for the CodeAlpha Internship Program
 
 ---
 
-## 📁 Task 1: Calculator
+## 📁 Task 2: Calculator
 
 A simple yet functional calculator built using:
 - HTML
@@ -20,7 +20,7 @@ A simple yet functional calculator built using:
 
 ---
 
-## 📁 Task 2: Music Player
+## 📁 Task 4: Music Player
 
 A modern and responsive music player with advanced features:
 - Stylish UI with dark/light theme  
